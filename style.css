@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #9c6644;
+}
+
+header {
+    background-color: #ffcb69;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+.sneaker-logo {
+    width: 150px;
+    height: 300px;
+  }
+  
+
+select {
+    margin-top: 10px;
+    padding: 5px;
+}
+
+main {
+    padding: 20px;
+}
+
+.sneaker {
+    border: 1px solid #219ebc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.sneaker img {
+    max-width: 100px;
+}

@@ -1,0 +1,64 @@
+{
+    "sneakers": [
+      {
+        "id": 1,
+        "name": "Nike Air Max 90",
+        "brand": "Nike",
+        "colorway": "White/Black/University Red",
+        "releaseDate": "2023-07-15",
+        "retailPrice": 120,
+        "description": "The Nike Air Max 90 is a classic sneaker known for its iconic design and comfortable cushioning. Featuring a white, black, and university red colorway, this version of the Air Max 90 is perfect for everyday wear.",
+        "images": [
+          "https://example.com/nike_air_max_90_image1.jpg",
+          "https://example.com/nike_air_max_90_image2.jpg"
+        ],
+        "additionalInfo": {
+          "technology": "Air Max",
+          "materials": "Leather, Mesh",
+          "styleCode": "CD0881-102",
+          "category": "Lifestyle"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Adidas Ultraboost",
+        "brand": "Adidas",
+        "colorway": "Core Black/Cloud White",
+        "releaseDate": "2023-06-20",
+        "retailPrice": 180,
+        "description": "The Adidas Ultraboost is a popular running shoe known for its responsive cushioning and stylish design. This version features a core black and cloud white colorway, making it versatile for both running and casual wear.",
+        "images": [
+          "https://example.com/adidas_ultraboost_image1.jpg",
+          "https://example.com/adidas_ultraboost_image2.jpg"
+        ],
+        "additionalInfo": {
+          "technology": "Boost",
+          "materials": "Primeknit",
+          "styleCode": "FY9325",
+          "category": "Running"
+        }
+      },
+    
+      {
+        "id": 3,
+        "name": "Jordan 1 Retro High",
+        "brand": "Jordan",
+        "colorway": "Black/Red",
+        "releaseDate": "2023-08-10",
+        "retailPrice": 160,
+        "description": "The Jordan 1 Retro High is an iconic basketball shoe worn by Michael Jordan during his rookie season. Featuring a classic black and red colorway, this sneaker pays homage to Jordan's Chicago Bulls days.",
+        "images": [
+          "https://example.com/jordan_1_retro_high_image1.jpg",
+          "https://example.com/jordan_1_retro_high_image2.jpg"
+        ],
+        "additionalInfo": {
+          "technology": "Air",
+          "materials": "Leather",
+          "styleCode": "555088-063",
+          "category": "Basketball"
+        }
+      }
+
+    ]
+  }
+  
